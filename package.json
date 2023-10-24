@@ -1,0 +1,22 @@
+{
+  "name": "sequelize-postgres",
+  "version": "1.0.0",
+  "description": "Node.js | Postgres SQL | Sequelize multi-db connection pooling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ORM",
+    "Node.js",
+    "API",
+    "PostgreSQL"
+  ],
+  "author": "Zimbonash",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.33.0"
+  }
+}
